@@ -1,20 +1,20 @@
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/mnevres/qr-code-generator/main/icon.png" alt="Uygulama İkonu" width="128" />
+</p>
 
-  <h1>QR Code Generator</h1>
-  <p>Hızlı, kolay ve ücretsiz QR kod oluşturucu.</p>
-  <p>
-    <a href="#-english">English</a>
-    ·
-    <a href="#-türkçe">Türkçe</a>
-  </p>
-</div>
+<h1 align="center">QR Code Generator</h1>
+
+<p align="center">Hızlı, kolay ve ücretsiz QR kod oluşturucu.</p>
+
+<p align="center">
+  <a href="#-english">English</a> · <a href="#-türkçe">Türkçe</a>
+</p>
 
 ---
 
 <a name="-english"></a>
 
-## English
+## 🇬🇧 English
 
 **QR Code Generator** is a free desktop application that allows you to quickly and easily create QR codes for your URLs or personal contact information (vCard) in PNG or SVG format.
 
@@ -34,10 +34,9 @@ This application is ideal for both personal and professional use. Thanks to its 
 
 | URL Tab | VCard Tab |
 | :---: | :---: |
-| !https://www.samsung.com/ca/support/mobile-devices/galaxy-tablet-take-a-screenshot/(https://raw.githubusercontent.com/mnnevres/qr-code-generator/main/qr_code_url.png) | ![VCard Tab Screenshot](https://raw.githubusercontent.com/mnnevres/qr-code-generator/main/qr_code_vcard.png) |
+| ![URL Tab Screenshot](qr_code_url.png) | ![VCard Tab Screenshot](qr_code_vcard.png) |
 | **Archive Window** | **Settings Window** |
-| ![Archive Screenshot](https://raw.githubusercontent.com/mnnevres/qr-code-generator/main/qr_code_archive.png) | ![Settings Screenshot](https://raw.githubusercontent.com/mnnevres/qr-code-generator/main/qr_code_settings.png) |
-
+| ![Archive Screenshot](qr_code_qrchive.png) | ![Settings Screenshot](qr_code_settings.png) |
 ### 🚀 Download
 
 You can safely download the latest version of the program from the link below. The setup file (`setup.exe`) allows you to easily install the program on your computer.
@@ -68,10 +67,9 @@ Bu uygulama, hem kişisel hem de profesyonel kullanım için idealdir. Kullanıc
 
 | URL Sekmesi | VCard Sekmesi |
 | :---: | :---: |
-| !https://medium.com/tibriz/gizli-sekmeden-ekran-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-nas%C4%B1l-al%C4%B1n%C4%B1r-f9d9ce73433(https://raw.githubusercontent.com/mnnevres/qr-code-generator/main/qr_code_url.png) | ![VCard Sekmesi Ekran Görüntüsü](https://raw.githubusercontent.com/mnnevres/qr-code-generator/main/qr_code_vcard.png) |
-| **Arşiv Penceresi** | **Ayarlar Penceresi** |
-| ![Arşiv Ekran Görüntüsü](https://raw.githubusercontent.com/mnnevres/qr-code-generator/main/qr_code_archive.png) | ![Ayarlar Ekran Görüntüsü](https://raw.githubusercontent.com/mnnevres/qr-code-generator/main/qr_code_settings.png) |
-
+| ![URL Tab Screenshot](qr_code_url.png) | ![VCard Tab Screenshot](qr_code_vcard.png) |
+| **Archive Window** | **Settings Window** |
+| ![Archive Screenshot](qr_code_qrchive.png) | ![Settings Screenshot](qr_code_settings.png) |
 ### 🚀 İndirme
 
 Programın en güncel sürümünü aşağıdaki bağlantıdan güvenle indirebilirsiniz. Kurulum dosyası (`setup.exe`), programı bilgisayarınıza kolayca kurmanızı sağlar.
@@ -80,13 +78,15 @@ Programın en güncel sürümünü aşağıdaki bağlantıdan güvenle indirebil
 
 ---
 
-### Geliştirici
+## 👨‍💻 Geliştirici
 
 **Mehmet Nevresoğlu**
 
-* **Website:** [nevresoglu.net](https://nevresoglu.net)
-* **LinkedIn:** [linkedin.com/in/mehmet-nevresoglu-bb44341a/](https://www.linkedin.com/in/mehmet-nevresoglu-bb44341a/)
+* 🌐 Website: [nevresoglu.net](https://nevresoglu.net)
+* 💼 LinkedIn: [linkedin.com/in/mehmet-nevresoglu-bb44341a/](https://www.linkedin.com/in/mehmet-nevresoglu-bb44341a/)
 
-Bu ücretsiz aracı geliştirmeye devam edebilmem için desteğinizi bekliyorum!
-
-<a href="https://coff.ee/nevresoglu" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi5.png?v=3" alt="Bana bir kahve ısmarla" style="border:0px;height:36px;" ></a>
+<p align="center">
+  <a href="https://coff.ee/nevresoglu" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/kofi5.png?v=3" alt="Bana bir kahve ısmarla" height="36">
+  </a>
+</p>
