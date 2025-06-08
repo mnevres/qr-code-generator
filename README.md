@@ -23,7 +23,7 @@ URL Tab
 
 VCard Tab
 
-!https://www.samsung.com/ca/support/mobile-devices/galaxy-tablet-take-a-screenshot/(https://raw.githubusercontent.com/mnnevres/qr-code-generator/main/qr_code_url.png)
+https://raw.githubusercontent.com/mnnevres/qr-code-generator/main/qr_code_url.png
 
 Archive Window
 
@@ -59,7 +59,7 @@ URL Sekmesi
 
 VCard Sekmesi
 
-!https://medium.com/tibriz/gizli-sekmeden-ekran-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-nas%C4%B1l-al%C4%B1n%C4%B1r-f9d9ce73433(https://raw.githubusercontent.com/mnnevres/qr-code-generator/main/qr_code_url.png)
+https://raw.githubusercontent.com/mnnevres/qr-code-generator/main/qr_code_url.png
 
 Arşiv Penceresi
 
