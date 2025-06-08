@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/mnnevres/qr-code-generator/main/icon.png](https://raw.githubusercontent.com/mnevres/qr-code-generator/main/icon.png
-)" alt="Uygulama İkonu" width="128"/>
+  ![Uygulama İkonu](https://raw.githubusercontent.com/mnevres/qr-code-generator/main/icon.png)
+
   <h1>QR Code Generator</h1>
   <p>Hızlı, kolay ve ücretsiz QR kod oluşturucu.</p>
   <p>
