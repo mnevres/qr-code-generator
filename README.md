@@ -23,7 +23,7 @@ URL Tab
 
 VCard Tab
 
-https://raw.githubusercontent.com/mnevres/qr-code-generator/refs/heads/main/qr_code_main.png
+[URL](https://raw.githubusercontent.com/qr_code_main.png)
 
 Archive Window
 
