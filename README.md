@@ -27,6 +27,7 @@ This application is ideal for both personal and professional use. Thanks to its 
 * **Two Different Formats:** Save your QR codes in pixel-based **PNG** or vector-based, high-quality **SVG** format.
 * **Adjustable Resolution:** Set the resolution for the generated PNG files yourself (from 100px to 2000px).
 * **Internal Archive:** Easily access, reuse, or delete your previously created URL and VCard records.
+* **Export & Import Archive:** Backup your archive database easily to any location on your PC and restore it with one click.
 * **Multi-Language Support:** Turkish and English language options are available.
 * **Automatic Update Check:** The program checks for a new version every time it starts and notifies you.
 
@@ -78,6 +79,7 @@ Bu uygulama, hem kişisel hem de profesyonel kullanım için idealdir. Kullanıc
 * **İki Farklı Format:** QR kodlarınızı piksel tabanlı **PNG** veya vektörel, kalitesi bozulmayan **SVG** formatında kaydedin.
 * **Ayarlanabilir Çözünürlük:** Oluşturulacak PNG dosyaları için çözünürlüğü (100px - 2000px arası) kendiniz belirleyin.
 * **Dahili Arşiv:** Daha önce oluşturduğunuz URL ve VCard kayıtlarınıza kolayca erişin, tekrar kullanın veya silin.
+* **Arşivi Dışa/İçe Aktar:** Arşiv veritabanınızı kolayca bilgisayarınızın herhangi bir yerine yedekleyebilir ve tek tıkla geri yükleyebilirsiniz.
 * **Çoklu Dil Desteği:** Türkçe ve İngilizce dil seçenekleri mevcuttur.
 * **Otomatik Güncelleme Kontrolü:** Program her açıldığında yeni bir sürüm olup olmadığını kontrol eder ve sizi bilgilendirir.
 
@@ -124,4 +126,5 @@ Programlarla ilgili görüşleriniz, önerileriniz veya karşılaştığınız h
     <img src="https://storage.ko-fi.com/cdn/kofi5.png?v=3" alt="Bana bir kahve ısmarla" height="36">
   </a>
 </p>
+
 
