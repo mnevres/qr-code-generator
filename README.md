@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/mnevres/qr-code-generator/main/icon.png" alt="Uygulama İkonu" width="128" />
 </p>
 
-<h1 align="center">QR Code Generator</h1>
+<h1 align="center">MN QR Code Generator</h1>
 
 <p align="center">Hızlı, kolay ve ücretsiz QR kod oluşturucu.</p>
 
@@ -124,3 +124,4 @@ Programlarla ilgili görüşleriniz, önerileriniz veya karşılaştığınız h
     <img src="https://storage.ko-fi.com/cdn/kofi5.png?v=3" alt="Bana bir kahve ısmarla" height="36">
   </a>
 </p>
+
